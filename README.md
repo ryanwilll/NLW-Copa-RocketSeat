@@ -15,22 +15,14 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![Versão Desktop](https://cdn.discordapp.com/attachments/1031955969820852305/1035674070823473202/Screenshot_2.png)
+![Versão Desktop 1](https://cdn.discordapp.com/attachments/1031955969820852305/1037072229340553336/unknown.png)
 
-![Versão Mobile](https://cdn.discordapp.com/attachments/1031955969820852305/1035674740729319424/mobile-design.jpg)
+![Versão Desktop 2](https://cdn.discordapp.com/attachments/1031955969820852305/1037072271891779724/unknown.png)
 
 ### Links
 
-- URL da solução: [FrontEnd Mentor](https://your-solution-url.com)
-- URL Live Server: [GitHub Pages](https://your-live-site-url.com)
+- URL Live Server: [GitHub Pages](https://ryanwilll.github.io/NLW-Copa-RocketSeat/)
 
-### Desenvolvido com
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
 
 ```html
 <h1>Algum código HTML do qual me orgulho</h1>
