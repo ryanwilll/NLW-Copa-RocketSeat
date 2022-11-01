@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(150deg, #0f2b05, #000000);
+  height: 100vh;
+}
+header {
+  text-align: center;
+  padding: 75px 0;
+}
+
+.cartao {
+  width: 264px;
+  height: 508px;
+  background: url(../assets/bg-explorer.svg);
+}
